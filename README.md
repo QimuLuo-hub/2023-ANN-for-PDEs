@@ -40,7 +40,7 @@ python "PINN_Robin(seperate).py"
 - Lowering the learning rate reduced error fluctuations, but more iterations were then needed.
 - **Limitations:** the error still fluctuates noticeably during training, and the effects of the loss function, activation and optimiser were not studied.
 
-A cleaned-up copy of the code, with some later experiments, is in [PINN-PDE](https://github.com/QimuLuo-hub/PINN-PDE).
+A cleaned-up copy of the code, with some later experiments, is in [2023-PINN-Poisson-Equation](https://github.com/QimuLuo-hub/2023-PINN-Poisson-Equation).
 
 ## References
 
